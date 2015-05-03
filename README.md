@@ -15,8 +15,8 @@ mac os X可以通过快捷键组合 Shift+Command+G 三个组合按键查找文�
 这里推荐几个反代google的网站，可以直接搜索做备用哦~
 
 
-http://173.194.14.53/
-http://209.116.186.231/
+http://173.194.14.53/  <br/>
+http://209.116.186.231/  <br/>
 http://210.242.125.83/
 https://g.ttlsa.com/
 https://www.glgoo.com/
@@ -27,6 +27,7 @@ https://wen.lu/
 https://g.conn.cc/
 http://google.0zv.net/
 这些直接打开也可以用哦
+<br/>
 
 
 我的微博: http://weibo.com/qingsonge

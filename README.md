@@ -3,13 +3,17 @@ accessing-Google
 
 windows可以通过开始——运行，输入C:\WINDOWS\system32\drivers\etc\hosts
 
+
 mac os X可以通过快捷键组合 Shift+Command+G 三个组合按键查找文件，并输入 Hosts 文件的所在路径：/etc/hosts
 
+
 打开hosts文件，在文件下方粘贴由github下载下来的txt文件的内容，保存即可使用
+
 
 请使用国际版google. 防止google本地化重定向: 访问一下`https://www.google.com/ncr`
 请使用https替代http访问.
 这里推荐几个反代google的网站，可以直接搜索做备用哦~
+
 
 http://173.194.14.53/
 http://209.116.186.231/
@@ -23,5 +27,6 @@ https://wen.lu/
 https://g.conn.cc/
 http://google.0zv.net/
 这些直接打开也可以用哦
+
 
 我的微博: http://weibo.com/qingsonge

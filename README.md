@@ -26,6 +26,8 @@ https://xie.lu/<br/>
 https://wen.lu/<br/>
 https://g.conn.cc/<br/>
 http://google.0zv.net/   <br/>
+http://www.xiexingwen.com/
+http://egeso.com/
 这些直接打开也可以用哦
 <br/>
 

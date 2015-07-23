@@ -698,9 +698,6 @@
 64.233.162.81  apprtc.appspot.com
 #google android end
 #google hosts
-#  老D博客 www.laod.cn
-#  更新于：2015-07-22 16:06 
-#  更新地址：http://laod.cn/hosts/2015-google-hosts.html
 # Wikipedia_racaljk start
 198.35.26.96    www.wikipedia.org
 91.198.174.208    upload.wikimedia.org
